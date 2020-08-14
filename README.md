@@ -6,12 +6,18 @@ Stiller of sessions of the Telegram Desktop application on windows 7, 8 and 10
 
 1. git clone https://github.com/Nikait/TgStealer
 2. open .sln file in Visual Studio
+
+
    ![alt text](open.png)
 3. compile Ctrl + F5
+
+
    ![alt text](compile.png)
 4. in Debug directory exe file will be located
 5. for example, run this file from a flash drive on the victim's computer 
    and the logs directory will contain all session files
+   
+   
    ![alt text](result.png)
 6. copy all files and directories to your Telegram Desktop folder
    and get access to your account or several accounts
