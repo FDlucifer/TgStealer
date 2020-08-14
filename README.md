@@ -1,6 +1,6 @@
 # Telegram Stealer
 
-Stiller of sessions of the Telegram Desktop application on windows 7, 8 and 10
+Stealer of sessions of the Telegram Desktop application on windows 7, 8 and 10
 
 ## Install
 
