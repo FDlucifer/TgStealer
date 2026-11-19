@@ -1,3 +1,9 @@
+## 保护性阅读提示
+
+本仓库包含涉及会话安全的历史材料。请勿运行未知文件，或采集、分享、复用任何真实账户的会话资料。以下原始内容保留用于来源追溯，不构成安全保证或使用推荐；原有署名保持不变。
+
+---
+
 # Telegram Stealer
 
 Stealer of sessions of the Telegram Desktop application on windows 7, 8 and 10 🔑
